@@ -1,1 +1,2 @@
 # responsivepage
+RESPONSIVE
